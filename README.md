@@ -1,1 +1,1 @@
-# Motorcycle-Part-Sales-per-warehouse-monthly
+Working on behalf of a company that sells motorcycle parts, I dig into their data to help them understand their revenue streams. I build up a query to find out how much net revenue they are generating across their product lines, segregating by date and warehouse
